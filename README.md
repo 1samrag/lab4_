@@ -3,10 +3,10 @@ the url to access the web map you have made.
 [Index](index.html)
 
 screenshots of the four layers :
-screenshot ![](map1/mapa.png)
-screenshot ![](map2/mapb.png)
-screenshot ![](map3/mapc.png)
-screenshot ![](map4/mapd.png)
+screenshot ![](screenshot/mapa.png)
+screenshot ![](screenshot/mapb.png)
+screenshot ![](screenshot/mapc.png)
+screenshot ![](screenshot/mapd.png)
 
 The examined geographic location I selected is Seattle, Washington.
 
