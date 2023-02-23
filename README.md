@@ -3,10 +3,10 @@ the url to access the web map you have made.
 [Index](index.html)
 
 screenshots of the four layers :
-screenshot ![](screenshot/mapa.png)
-screenshot ![](screenshot/mapb.png)
-screenshot ![](screenshot/mapc.png)
-screenshot ![](screenshot/mapd.png)
+screenshot ![](Basemap/mapa.png)
+screenshot ![](Residential building_permits_not_yet_completed/mapb.png)
+screenshot ![](basmap_with_dataset/mapc.png)
+screenshot ![](Autism_awareness_map/mapd.png)
 
 The examined geographic location I selected is Seattle, Washington.
 
