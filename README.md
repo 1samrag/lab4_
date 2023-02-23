@@ -4,7 +4,7 @@ the url to access the web map you have made.
 
 screenshots of the four layers :
 screenshot ![](Basemap/mapa.png)
-screenshot ![](Residential building_permits_not_yet_completed/mapb.png)
+screenshot ![](Residential_building_permits_not_yet_completed/mapb.png)
 screenshot ![](basmap_with_dataset/mapc.png)
 screenshot ![](Autism_awareness_map/mapd.png)
 
