@@ -1,12 +1,12 @@
 # lab4_
 the url to access the web map you have made.
-[map](index.html)
+[Index](index.html)
 
 screenshots of the four layers :
-screenshot ![](screenshot/Screen Shot 2023-02-22 at 5.12.34 PM.png)
-screenshot ![](screenshot/Screen Shot 2023-02-22 at 5.12.48 PM.png)
-screenshot ![](screenshot/Screen Shot 2023-02-22 at 5.12.54 PM.png)
-screenshot ![](screenshot/Screen Shot 2023-02-22 at 5.13.03 PM.png)
+screenshot ![](screenshot/mapa.png)
+screenshot ![](screenshot/mapb.png)
+screenshot ![](screenshot/mapc.png)
+screenshot ![](screenshot/mapd.png)
 
 The examined geographic location I selected is Seattle, Washington.
 
